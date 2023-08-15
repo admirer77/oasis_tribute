@@ -1,0 +1,39 @@
+
+.bg-container {
+    background-image: url('https://wallpaperaccess.com/full/1640011.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 30px;
+}
+
+.head2 {
+    color: #7b8794;
+    font-size: 15px;
+}
+
+.head1 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.para {
+    font-size: 13px;
+    color: #7b8794;
+}
+
+.button1 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 40px;
+    width: 30vw;
+    font-size: 12px;
+    
+}
